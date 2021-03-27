@@ -21,23 +21,23 @@ Following are the features available in the project:
 **Admin Module:**
 
 - 	Admin can Add/Edit/Delete/View any user
--	  Admin can Add/Edit/Delete/View venues
--	  Admin can Add/View/Edit/Delete events
--	  Admin can Add/View/Edit/Delete sessions
--	  Admin can Add/View/Edit/Delete  attendees
--	  Plus all functionality of all other roles
+-	Admin can Add/Edit/Delete/View venues
+-	Admin can Add/View/Edit/Delete events
+-	Admin can Add/View/Edit/Delete sessions
+-	Admin can Add/View/Edit/Delete  attendees
+-	Plus all functionality of all other roles
 
 
 **Super Admin Module**
 
--   Super Admin cannot be deleted from the database
--	  Plus all functionality of all admin roles
+-	Super Admin cannot be deleted from the database
+-	Plus all functionality of all admin roles
 	  
 **Event Manager Module**
 
--	  Add/View/Edit/Delete their own events
--	  Add/View/Edit/Delete sessions in their own events
--	  Add/View/Edit/Delete attendees in their own events/sessions.
+-	Add/View/Edit/Delete their own events
+-	Add/View/Edit/Delete sessions in their own events
+-	Add/View/Edit/Delete attendees in their own events/sessions.
 - 	Plus Attendee role
 
 
