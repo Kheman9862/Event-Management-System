@@ -55,12 +55,12 @@ Following are the features available in the project:
 
 **2) Admin Dashboard**
 
-![Admin Dashboard Screen]()
+![Admin Dashboard Screen](https://github.com/Kheman9862/Event-Management-System/blob/master/images/Admin.PNG)
 
 **3) Event Manager Details**
 
-![Event Manager Page]()
+![Event Manager Page](https://github.com/Kheman9862/Event-Management-System/blob/master/images/EventManager.PNG)
 
 **4) Attendee Details**
 
-![Attendee Page]()
+![Attendee Page](https://github.com/Kheman9862/Event-Management-System/blob/master/images/Attendee.PNG)
