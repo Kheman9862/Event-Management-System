@@ -51,7 +51,7 @@ Following are the features available in the project:
 
 ***1) Login Page:***
 
-![Login Page]()		
+![Login Page](https://github.com/Kheman9862/Event-Management-System/blob/master/images/login.PNG)		
 
 **2) Admin Dashboard**
 
